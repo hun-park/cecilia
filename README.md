@@ -1,10 +1,10 @@
 ## neural processing unit ##
 ### structure ###
-* <span style="color:green">some *input data* text</span>
-* preprocessing unit
+* *input data*
+* [preprocessing unit]()
 * *weights data*
 * *activations data*
-* processing unit
+* [processing unit]()
 * *output data*
 ---
 ### reference ###
