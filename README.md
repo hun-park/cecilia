@@ -1,6 +1,6 @@
 ## neural processing unit ##
 ### structure ###
-* *input data*
+* <span style="color:green">some *input data* text</span>
 * preprocessing unit
 * *weights data*
 * *activations data*
